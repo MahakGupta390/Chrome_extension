@@ -7,7 +7,7 @@ export default function FeaturesSection() {
       <div id="feature-section"className="flex flex-col md:flex-row items-center gap-8">
   <div className="relative w-full md:w-1/2 rounded-lg overflow-hidden shadow-lg">
     <img 
-      src="/src/assets/sunrise.avif" 
+      src="/sunrise.avif" 
       alt="Sunrise" 
       className="w-full h-64 md:h-80 object-cover" 
     />
@@ -26,7 +26,7 @@ export default function FeaturesSection() {
 <div className="flex flex-col md:flex-row items-center gap-8 mt-8">
   <div className="relative w-full md:w-1/2 rounded-lg overflow-hidden shadow-lg">
     <img 
-      src="/src/assets/Todo.png" 
+      src="/Todo.png" 
       alt="Pomodoro Timer" 
       className="w-full h-64 md:h-80 object-contain" 
     />

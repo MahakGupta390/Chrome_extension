@@ -1,8 +1,8 @@
 
 import React, { useState } from 'react';
-import devModeImg from '../assets/dev_mode.png';
-import distImg from '../assets/dist.png';
-import changesImg from '../assets/change.png';
+import devModeImg from '/dev_mode.png';
+import distImg from '/dist.png';
+import changesImg from '/change.png';
 export default function InstallGuide() {
   const [extId, setExtId] = useState('');
 

@@ -46,7 +46,7 @@ const isLoggedIn = Boolean(localStorage.getItem("token"));
 
       {/* Background image */}
       <img
-        src="/src/assets/hero-bg.avif"
+        src="/hero-bg.avif"
         alt="Hero Background"
         className="absolute inset-0 h-full w-full object-cover"
       />

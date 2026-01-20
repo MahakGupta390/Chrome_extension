@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import forest from "../assets/forest.avif";
-import ocean from "../assets/ocean.avif";
-import sunrise from "../assets/sunrise.avif";
+import forest from "/forest.avif";
+import ocean from "/ocean.avif";
+import sunrise from "/sunrise.avif";
 
 const images = [forest, ocean, sunrise];
 
